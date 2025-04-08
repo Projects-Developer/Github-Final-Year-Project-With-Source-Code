@@ -22,6 +22,7 @@ Github final year project Included Source Code, PPT, Synopsis, Report, Documents
 9.	NGO Management Using Blockchain	https://youtu.be/8Dyk7rMD7n4?si=mtqwJU81LR9lPZCr
 
 10.	Bank Record Storage System Using Blockchain	https://youtu.be/ZH3ySXHGrPE?si=3Cw8_86L34jAdvNy
+
 ### Project include: 
 
 1. Synopsis
@@ -42,12 +43,10 @@ Github final year project Included Source Code, PPT, Synopsis, Report, Documents
 
 ### Need Code, Documents & Explanation video ? 
 
-## How to Reach me :
+### 📞 Contact for Project Files / Help (Available 🟢 LIVE 24×7 – LIVE Support):
 
-### Mail : vatshayan007@gmail.com 
+### 🌐 Website: https://www.finalproject.in/
 
-### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
 
-### Website : https://www.finalproject.in/
-
-### Youtube Channel: https://www.youtube.com/@computerscienceproject
+### 💻 Computer Science Projects: https://www.computer-science-project.in/
